@@ -2,7 +2,7 @@
 #Problem Link: dmoj.ca/problem/seq1
 #Tags: Intermediate Math
 #Concepts: Binary Exponentiation
-#Time Complexity: O(log(N)), Space Complexity: O(1 
+#Time Complexity: O(log(N)), Space Complexity: O(1)
 
 """
 Problem Analysis:
